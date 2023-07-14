@@ -162,5 +162,21 @@
       "description": "Prepárate para emocionantes batallas Pokémon con la Pokeball. Captura y entrena a tus Pokémon, luego desata sus poderes en batallas épicas. Con la Pokeball a tu lado, estás listo para convertirte en un Maestro Pokémon.",
       "category": "Otros"
     }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "desc": "Star Wars"
+    },
+    
+    {
+      "id": 2,
+      "desc": "Consolas"
+    },
+    
+    {
+      "id": 3,
+      "desc": "Otros"
+    }
   ]
 }
