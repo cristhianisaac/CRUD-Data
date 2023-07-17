@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Taza Stormtrooper",
       "price": "99.90",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Starwars/p1.webp",
+      "imageUrl": "IMG/Starwars/p1.webp",
       "imageDescription": "Taza Stormtrooper",
       "description": "La Taza Stormtrooper es imprescindible para todos los fanáticos de Star Wars. Disfruta de tu bebida favorita en esta taza elegante e icónica. Abraza el lado oscuro con cada sorbo. Perfecta para regalar o añadir a tu colección de Star Wars.",
       "category": "Star Wars"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "Darth Vader",
       "price": "135.50",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Starwars/p2.webp",
+      "imageUrl": "IMG/Starwars/p2.webp",
       "imageDescription": "Darth Vader",
       "description": "Libera el poder del Lado Oscuro con esta figura coleccionable de Darth Vader. Exhibe con orgullo esta figura y siente la fuerza fluir a través de ti. Perfecta para fanáticos y coleccionistas de Star Wars.",
       "category": "Star Wars"
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Halcón Milenario",
       "price": "249.90",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Starwars/p3.webp",
+      "imageUrl": "IMG/Starwars/p3.webp",
       "imageDescription": "Halcón Milenario",
       "description": "Embárcate en aventuras intergalácticas con el legendario Halcón Milenario. Únete a la Alianza Rebelde y derrota al Imperio en esta icónica nave espacial. El regalo perfecto para cualquier fan de Star Wars.",
       "category": "Star Wars"
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "Stormtrooper",
       "price": "89.90",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Starwars/p4.webp",
+      "imageUrl": "IMG/Starwars/p4.webp",
       "imageDescription": "Stormtrooper",
       "description": "Sirve al Imperio Galáctico con orgullo y precisión con este uniforme de Stormtrooper. Ya sea para cosplay o exhibición, este conjunto de armadura te hará sentir como un verdadero soldado del Imperio. ¡Prepárate para la batalla!",
       "category": "Star Wars"
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "The Child",
       "price": "355.50",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Starwars/p5.webp",
+      "imageUrl": "IMG/Starwars/p5.webp",
       "imageDescription": "BB-8",
       "description": "Conoce a The Child, el adorable y misterioso personaje del universo de Star Wars. Esta figura coleccionable captura la esencia de este querido personaje. Lleva a casa la ternura y el encanto de The Child hoy mismo.",
       "category": "Star Wars"
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "BB-8",
       "price": "499.90",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Starwars/p6.webp",
+      "imageUrl": "IMG/Starwars/p6.webp",
       "imageDescription": "BB-8",
       "description": "Únete a la Resistencia con BB-8, el leal droide astromecánico. Este droide con control desde la aplicación está repleto de funciones y se puede controlar con tu teléfono inteligente. Experimenta la magia de Star Wars con BB-8 a tu lado.",
       "category": "Star Wars"
@@ -58,7 +58,7 @@
       "id": 7,
       "name": "Control X Box Shock",
       "price": "1099.90",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Consolas/p1.webp",
+      "imageUrl": "IMG/Consolas/p1.webp",
       "imageDescription": "Control X Box Shock",
       "description": "Mejora tu experiencia de juego con el Control X Box Shock. Diseñado para brindar la máxima comodidad y precisión, este controlador ofrece una jugabilidad inmersiva. Toma el control de tu destino en el mundo de los videojuegos.",
       "category": "Consolas"
@@ -67,7 +67,7 @@
       "id": 8,
       "name": "PlayStation 5",
       "price": "999.99",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Consolas/p2.webp",
+      "imageUrl": "IMG/Consolas/p2.webp",
       "imageDescription": "PlayStation 5",
       "description": "Experimenta la próxima generación de juegos con la PlayStation 5. Sumérgete en gráficos impresionantes, tiempos de carga ultrarrápidos y una experiencia de juego realmente inmersiva. Mejora tu experiencia de juego con la PS5.",
       "category": "Consolas"
@@ -76,7 +76,7 @@
       "id": 9,
       "name": "NES Mini",
       "price": "1499.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Consolas/p3.webp",
+      "imageUrl": "IMG/Consolas/p3.webp",
       "imageDescription": "NES Mini",
       "description": "Revive los días de gloria de los juegos con la NES Mini. Esta consola compacta viene precargada con una colección de juegos clásicos, brindando alegría nostálgica a jugadores de todas las edades. Prepárate para redescubrir tus juegos favoritos de la infancia.",
       "category": "Consolas"
@@ -85,7 +85,7 @@
       "id": 10,
       "name": "Nintendo Switch",
       "price": "5899.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Consolas/p4.webp",
+      "imageUrl": "IMG/Consolas/p4.webp",
       "imageDescription": "Nintendo Switch",
       "description": "Experimenta la versatilidad de los juegos como nunca antes con la Nintendo Switch. Juega en casa en tu televisor o llévala contigo en modo portátil. Las posibilidades son infinitas con la Nintendo Switch.",
       "category": "Consolas"
@@ -94,7 +94,7 @@
       "id": 11,
       "name": "X Box Series X",
       "price": "1399.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Consolas/p5.webp",
+      "imageUrl": "IMG/Consolas/p5.webp",
       "imageDescription": "",
       "description": "Sumérgete en el mundo de los videojuegos con la X Box Series X. Desde gráficos impresionantes hasta tiempos de carga ultrarrápidos, esta consola ofrece la mejor experiencia de juego. Prepárate para elevar tus habilidades de juego.",
       "category": "Consolas"
@@ -103,7 +103,7 @@
       "id": 12,
       "name": "NES Classic Edition",
       "price": "3499.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Consolas/p6.webp",
+      "imageUrl": "IMG/Consolas/p6.webp",
       "imageDescription": "NES Classic Edition",
       "description": "Redescubre la era de los 8 bits con la NES Classic Edition. Esta mini consola viene cargada con juegos clásicos de NES, permitiéndote revivir la época dorada de los videojuegos. Retrocede en el tiempo y experimenta la nostalgia.",
       "category": "Consolas"
@@ -112,7 +112,7 @@
       "id": 13,
       "name": "Cartas Yu-Gi-Oh!",
       "price": "359.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Otro/p1.webp",
+      "imageUrl": "IMG/Otro/p1.webp",
       "imageDescription": "",
       "description": "Adéntrate en el mundo de los duelos con las Cartas Yu-Gi-Oh! Estas cartas coleccionables brindan la emoción y estrategia del popular juego de cartas intercambiables. Construye tu mazo, desafía a oponentes y conviértete en un maestro duelista.",
       "category": "Otros"
@@ -121,7 +121,7 @@
       "id": 14,
       "name": "Wargreymon",
       "price": "799.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Otro/p2.webp",
+      "imageUrl": "IMG/Otro/p2.webp",
       "imageDescription": "Wargreymon",
       "description": "Libera el poder de Wargreymon, el icónico Digimon. Esta figura coleccionable captura el espíritu feroz y noble de este legendario Digimon. Exhibe con orgullo esta figura y revive las aventuras del Mundo Digital.",
       "category": "Otros"
@@ -130,7 +130,7 @@
       "id": 15,
       "name": "Sonic The Hedgehog",
       "price": "399.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Otro/p3.webp",
+      "imageUrl": "IMG/Otro/p3.webp",
       "imageDescription": "Sonic The Hedgehog",
       "description": "Velocidad en acción con Sonic The Hedgehog. Este icónico personaje de videojuegos ha entretenido a los jugadores durante décadas. Únete a Sonic en sus aventuras a toda velocidad y recoge los anillos para derrotar al Dr. Robotnik.",
       "category": "Otros"
@@ -139,7 +139,7 @@
       "id": 16,
       "name": "Pokedex",
       "price": "389.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Otro/p4.webp",
+      "imageUrl": "IMG/Otro/p4.webp",
       "imageDescription": "Pokedex",
       "description": "Conviértete en el mejor entrenador de Pokémon con la Pokedex. Este dispositivo contiene información valiosa sobre diferentes especies de Pokémon, ayudándote a atraparlos a todos y completar tu Pokedex. Prepárate para una épica aventura Pokémon.",
       "category": "Otros"
@@ -148,7 +148,7 @@
       "id": 17,
       "name": "Figura Super Mario",
       "price": "79.99",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Otro/p5.webp",
+      "imageUrl": "IMG/Otro/p5.webp",
       "imageDescription": "Figura Super Mario",
       "description": "Celebra al fontanero más famoso del mundo con la Figura Super Mario. Esta figura coleccionable da vida a Mario, listo para embarcarse en su próxima aventura. Ya seas un fan de toda la vida o nuevo en la franquicia, esta figura es imprescindible.",
       "category": "Otros"
@@ -157,7 +157,7 @@
       "id": 18,
       "name": "Pokeball",
       "price": "689.00",
-      "imageUrl": "https://cristhianisaac.github.io/ChallengeONEAluraGeek/IMG/Otro/p6.webp",
+      "imageUrl": "IMG/Otro/p6.webp",
       "imageDescription": "Pokeball",
       "description": "Prepárate para emocionantes batallas Pokémon con la Pokeball. Captura y entrena a tus Pokémon, luego desata sus poderes en batallas épicas. Con la Pokeball a tu lado, estás listo para convertirte en un Maestro Pokémon.",
       "category": "Otros"
@@ -177,6 +177,14 @@
     {
       "id": 3,
       "desc": "Otros"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "cgarcia",
+      "password": "12345678",
+      "name":"Cristhian Isaac García Domínguez"
     }
   ]
 }
