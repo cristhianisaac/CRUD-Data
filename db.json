@@ -178,5 +178,13 @@
       "id": 3,
       "desc": "Otros"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "cgarcia",
+      "password": "12345678",
+      "name":"Cristhian Isaac García Domínguez"
+    }
   ]
 }
