@@ -1,11 +1,11 @@
 {
+
   "name": "crud-data",
   "version": "1.0.0",
-  "description": "",
-  "main": "db.js",
   "scripts": {
-    "start": "node db.js"
-  },
+    "start": "node db.json"
+  }
+,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cristhianisaac/CRUD-Data.git"
